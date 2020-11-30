@@ -1,0 +1,20 @@
+C:\Users\plius\Desktop\CSAExamJan2017\service\bin\Debug\service.dll.config
+C:\Users\plius\Desktop\CSAExamJan2017\service\bin\Debug\service.dll
+C:\Users\plius\Desktop\CSAExamJan2017\service\bin\Debug\service.pdb
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.csprojAssemblyReference.cache
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.dll
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.pdb
+D:\Study Materials\CSA\CSAExamJan2017 solution\service\bin\Debug\service.dll.config
+D:\Study Materials\CSA\CSAExamJan2017 solution\service\bin\Debug\service.dll
+D:\Study Materials\CSA\CSAExamJan2017 solution\service\bin\Debug\service.pdb
+D:\Study Materials\CSA\CSAExamJan2017 solution\service\obj\Debug\service.csprojAssemblyReference.cache
+D:\Study Materials\CSA\CSAExamJan2017 solution\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+D:\Study Materials\CSA\CSAExamJan2017 solution\service\obj\Debug\service.dll
+D:\Study Materials\CSA\CSAExamJan2017 solution\service\obj\Debug\service.pdb
+D:\Study_Materials\CSA\CSAExamJan2017 solution\service\bin\Debug\service.dll.config
+D:\Study_Materials\CSA\CSAExamJan2017 solution\service\bin\Debug\service.dll
+D:\Study_Materials\CSA\CSAExamJan2017 solution\service\bin\Debug\service.pdb
+D:\Study_Materials\CSA\CSAExamJan2017 solution\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+D:\Study_Materials\CSA\CSAExamJan2017 solution\service\obj\Debug\service.dll
+D:\Study_Materials\CSA\CSAExamJan2017 solution\service\obj\Debug\service.pdb
